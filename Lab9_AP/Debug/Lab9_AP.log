@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\hashir\documents\visual studio 2015\projects\lab9_ap\lab9_ap\source.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hashir\documents\visual studio 2015\projects\lab9_ap\lab9_ap\source.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hashir\documents\visual studio 2015\projects\lab9_ap\lab9_ap\source.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hashir\documents\visual studio 2015\projects\lab9_ap\lab9_ap\source.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hashir\documents\visual studio 2015\projects\lab9_ap\lab9_ap\source.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hashir\documents\visual studio 2015\projects\lab9_ap\lab9_ap\source.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hashir\documents\visual studio 2015\projects\lab9_ap\lab9_ap\source.cpp(61): warning C4101: 'po': unreferenced local variable
+  Lab9_AP.vcxproj -> C:\Users\Hashir\Documents\Visual Studio 2015\Projects\Lab9_AP\Debug\Lab9_AP.exe
+  Lab9_AP.vcxproj -> C:\Users\Hashir\Documents\Visual Studio 2015\Projects\Lab9_AP\Debug\Lab9_AP.pdb (Full PDB)
